@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="token_suites.vcxproj" Id="bbbe5793-71a4-419d-8e76-68a0822b78e7" />
+</Solution>
